@@ -1,0 +1,2 @@
+Slider#1	X	20.0
+Slider#2	X	50.0

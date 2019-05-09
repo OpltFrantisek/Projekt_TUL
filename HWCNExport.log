@@ -1,0 +1,29 @@
+06.05.2019 14:01:28
+LoopStarted!
+Error initializing Simatic-COM-Object!
+System.Runtime.InteropServices.COMException (0x80040154): Načítání závodu třídy modelu COM pro komponentu s identifikátorem CLSID {9A853ACF-BA8E-11D1-BAD8-0060086A411D} se nezdařilo kvůli následující chybě : 80040154.
+   v Siemens.Simit.SimitESConvert.COMAccessHandler.Loop()
+HWCNExport, xmlFile: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml, TIA project: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+File    Name : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml
+Project Path : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+Project Name : 
+HWCNExport, xmlFile: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml, TIA project: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+File    Name : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml
+Project Path : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+Project Name : 
+HWCNExport, xmlFile: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml, TIA project: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+File    Name : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml
+Project Path : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+Project Name : 
+HWCNExport, xmlFile: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml, TIA project: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+File    Name : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml
+Project Path : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+Project Name : 
+HWCNExport, xmlFile: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml, TIA project: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+File    Name : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml
+Project Path : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+Project Name : 
+HWCNExport, xmlFile: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml, TIA project: C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+File    Name : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\nadrz.xml
+Project Path : C:\Users\KureciPloutev\Documents\GitHub\Projekt_TUL\Nadrz\Nadrz.ap15
+Project Name : 

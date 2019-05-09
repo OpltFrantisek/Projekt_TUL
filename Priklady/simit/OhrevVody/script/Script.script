@@ -1,0 +1,7 @@
+META_BLOCKGUI=False
+META_CYCLE=2
+"Valve#2/Position" = 30
+GO-TO 15000 // pocka dokud cas simlulace == 15 sekund
+RAMP "Valve#2/Position" FROM 40 TO 100 IN 6000 // 6 sekund
+
+
